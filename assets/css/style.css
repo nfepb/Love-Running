@@ -27,6 +27,8 @@ h1, h2 {
     margin-left: 30px;
 }
 
+/* navigation links */
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -111,7 +113,8 @@ h1, h2 {
 
     position: absolute;
 }
-/* club ehtos */
+
+/* club ethos */
 
 #club-ethos {
     height: 600px;
@@ -185,4 +188,15 @@ hr {
     background: url('../images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+}
+
+/* event times */
+
+#times {
+    background-image: url('../images/dublin-city.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
